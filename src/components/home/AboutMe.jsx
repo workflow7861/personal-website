@@ -57,8 +57,8 @@ const AboutMe = () => {
                 className="border border-secondary rounded-circle"
                 src={Profile}
                 alt="profilepicture"
-                width="375"
-                height="360"
+                width="355"
+                height="340"
               />
             </div>
             <div className="col d-lg-inline align-self-center">
